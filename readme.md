@@ -4,8 +4,9 @@ Pew-pew is a shooting game made in javascript(canvas).
 
 - Time necessary : **1/2 day**
 - Work mode : **Solo**
-- Repository: `PewPew`
+- Repository : `PewPew`
 - Deployment stragegy : GitHub Page
+- Demo : [Web Perso](http://becode.gerardo-cella.net/Pew-Pew/)
 
 ## Introduction
 
